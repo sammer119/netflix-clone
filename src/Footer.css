@@ -34,3 +34,9 @@
     margin-right: 1em;
     cursor: pointer;
 }
+
+@media (max-width: 900px) {
+    .footer {
+        flex-direction: column;
+    }
+}

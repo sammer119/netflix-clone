@@ -9,7 +9,7 @@ import { IconContext } from "react-icons";
 
 function Footer() {
     return (
-        <div className="sdfs">
+        <div className="footer__main">
             <div className="footer__row">
                 <IconContext.Provider value={{ color: "#808080" }}>
                     <a
