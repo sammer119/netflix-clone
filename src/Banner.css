@@ -56,3 +56,9 @@
         #111
     );
 }
+
+@media (max-width: 950px) {
+    .banner__description {
+        font-size: 1rem;
+    }
+}

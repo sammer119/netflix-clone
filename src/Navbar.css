@@ -17,6 +17,7 @@
 }
 
 .nav__logo {
+    padding-top: 5px;
     position: fixed;
     left: 40px;
     width: 80px;
